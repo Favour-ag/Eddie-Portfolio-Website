@@ -212,11 +212,11 @@ a:not(.btn):hover {
 }
 .portfolio-section .filter-control > li.tab-active,
 .portfolio-section .filter-control > li:hover {
-  color: #00bd7a;
+  color: rgb(195, 78, 195);
 }
 .portfolio-section .filter-control > li.tab-active:before,
 .portfolio-section .filter-control > li:hover:before {
-  background-color: #00bd7a;
+  background-color: purple;
 }
 .portfolio-section
   .portfolio-grid
