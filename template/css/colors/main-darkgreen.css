@@ -163,6 +163,11 @@ a:not(.btn):hover {
   border-color: rgb(175, 10, 175) !important;
   box-shadow: none !important;
 }
+.btn.button-scheme:hover {
+  background-color: rgb(176, 23, 176) !important;
+  border-color: rgb(175, 10, 175) !important;
+  box-shadow: none !important;
+}
 .btn.button-outline {
   background-color: transparent !important;
   border: 1px solid purple !important;
